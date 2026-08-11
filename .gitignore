@@ -1,0 +1,17 @@
+
+# Documentação e contexto internos: não publicar no repositório aberto.
+AGENTS.md
+AGENT-PLAN.md
+BRAND-GUIDE.md
+CAPTURE-RULES.md
+CONTEXT.md
+FRONTEND-STATUS.md
+PROJECT.md
+QA.md
+README.md
+UX-SPECS.md
+
+# Artefatos locais e temporários.
+*.log
+*.tmp
+codex-clipboard-*
